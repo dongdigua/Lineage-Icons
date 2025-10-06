@@ -4,9 +4,7 @@
 .DS_Store
 .idea/
 .gradle/
-gradle/
 /build
-gradlew*
 /captures
 .externalNativeBuild
 .project
